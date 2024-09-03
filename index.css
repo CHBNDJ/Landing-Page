@@ -357,6 +357,7 @@ main {
     display: flex;
     flex-direction: column;
     gap: 38px;
+    margin-top: 2em;
 }
 
 .access-text {
